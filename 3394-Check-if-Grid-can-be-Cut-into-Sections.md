@@ -2,7 +2,7 @@
 
 ## Problem Definition
 
-**[Link to Problem on LeetCode](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/)** *(Note: Hypothetical link as problem #3394 doesn’t exist yet)*
+**[Link to Problem on LeetCode](https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/)** 
 
 ### Description
 You are given an integer `n` representing the dimensions of an `n x n` grid, with the origin at the bottom-left corner. You are also given a 2D array `rectangles`, where `rectangles[i] = [startx, starty, endx, endy]` represents a rectangle on the grid:
